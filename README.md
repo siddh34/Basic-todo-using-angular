@@ -1,4 +1,6 @@
-# Essentials
+# Simple Task list using Angular
+
+It is a course project on udemy: https://www.udemy.com/course/the-complete-guide-to-angular-2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
